@@ -1,0 +1,599 @@
+Transaction 1:
+Purpose: Salary
+Amount: 2500
+Date: 2024-04-01
+Type: Income
+
+Transaction 2:
+Purpose: Groceries
+Amount: 80
+Date: 2024-04-02
+Type: Expense
+
+Transaction 3:
+Purpose: Rent
+Amount: 1200
+Date: 2024-04-03
+Type: Expense
+
+Transaction 4:
+Purpose: Freelance Work
+Amount: 300
+Date: 2024-04-04
+Type: Income
+
+Transaction 5:
+Purpose: Dining Out
+Amount: 40
+Date: 2024-04-05
+Type: Expense
+
+Transaction 6:
+Purpose: Gasoline
+Amount: 45
+Date: 2024-04-06
+Type: Expense
+
+Transaction 7:
+Purpose: Internet Bill
+Amount: 60
+Date: 2024-04-07
+Type: Expense
+
+Transaction 8:
+Purpose: Birthday Gift
+Amount: 25
+Date: 2024-04-08
+Type: Expense
+
+Transaction 9:
+Purpose: Investment Dividend
+Amount: 150
+Date: 2024-04-09
+Type: Income
+
+Transaction 10:
+Purpose: Clothing
+Amount: 70
+Date: 2024-04-10
+Type: Expense
+
+Transaction 11:
+Purpose: Bonus
+Amount: 500
+Date: 2024-04-11
+Type: Income
+
+Transaction 12:
+Purpose: Electricity Bill
+Amount: 90
+Date: 2024-04-12
+Type: Expense
+
+Transaction 13:
+Purpose: Car Maintenance
+Amount: 200
+Date: 2024-04-13
+Type: Expense
+
+Transaction 14:
+Purpose: Freelance Work
+Amount: 400
+Date: 2024-04-14
+Type: Income
+
+Transaction 15:
+Purpose: Entertainment
+Amount: 50
+Date: 2024-04-15
+Type: Expense
+
+Transaction 16:
+Purpose: Gym Membership
+Amount: 30
+Date: 2024-04-16
+Type: Expense
+
+Transaction 17:
+Purpose: Investment Dividend
+Amount: 180
+Date: 2024-04-17
+Type: Income
+
+Transaction 18:
+Purpose: Dining Out
+Amount: 35
+Date: 2024-04-18
+Type: Expense
+
+Transaction 19:
+Purpose: Groceries
+Amount: 90
+Date: 2024-04-19
+Type: Expense
+
+Transaction 20:
+Purpose: Salary
+Amount: 2600
+Date: 2024-04-20
+Type: Income
+
+Transaction 21:
+Purpose: Rent
+Amount: 1200
+Date: 2024-04-21
+Type: Expense
+
+Transaction 22:
+Purpose: Freelance Work
+Amount: 350
+Date: 2024-04-22
+Type: Income
+
+Transaction 23:
+Purpose: Transportation
+Amount: 20
+Date: 2024-04-23
+Type: Expense
+
+Transaction 24:
+Purpose: Dining Out
+Amount: 60
+Date: 2024-04-24
+Type: Expense
+
+Transaction 25:
+Purpose: Electricity Bill
+Amount: 95
+Date: 2024-04-25
+Type: Expense
+
+Transaction 26:
+Purpose: Clothing
+Amount: 50
+Date: 2024-04-26
+Type: Expense
+
+Transaction 27:
+Purpose: Investment Dividend
+Amount: 170
+Date: 2024-04-27
+Type: Income
+
+Transaction 28:
+Purpose: Groceries
+Amount: 75
+Date: 2024-04-28
+Type: Expense
+
+Transaction 29:
+Purpose: Freelance Work
+Amount: 400
+Date: 2024-04-29
+Type: Income
+
+Transaction 30:
+Purpose: Dining Out
+Amount: 45
+Date: 2024-04-30
+Type: Expense
+
+Transaction 31:
+Purpose: Salary
+Amount: 2700
+Date: 2024-05-01
+Type: Income
+
+Transaction 32:
+Purpose: Groceries
+Amount: 85
+Date: 2024-05-02
+Type: Expense
+
+Transaction 33:
+Purpose: Rent
+Amount: 1200
+Date: 2024-05-03
+Type: Expense
+
+Transaction 34:
+Purpose: Freelance Work
+Amount: 320
+Date: 2024-05-04
+Type: Income
+
+Transaction 35:
+Purpose: Dining Out
+Amount: 50
+Date: 2024-05-05
+Type: Expense
+
+Transaction 36:
+Purpose: Gasoline
+Amount: 40
+Date: 2024-05-06
+Type: Expense
+
+Transaction 37:
+Purpose: Internet Bill
+Amount: 65
+Date: 2024-05-07
+Type: Expense
+
+Transaction 38:
+Purpose: Birthday Gift
+Amount: 30
+Date: 2024-05-08
+Type: Expense
+
+Transaction 39:
+Purpose: Investment Dividend
+Amount: 160
+Date: 2024-05-09
+Type: Income
+
+Transaction 40:
+Purpose: Clothing
+Amount: 80
+Date: 2024-05-10
+Type: Expense
+
+Transaction 41:
+Purpose: Bonus
+Amount: 600
+Date: 2024-05-11
+Type: Income
+
+Transaction 42:
+Purpose: Electricity Bill
+Amount: 100
+Date: 2024-05-12
+Type: Expense
+
+Transaction 43:
+Purpose: Car Maintenance
+Amount: 250
+Date: 2024-05-13
+Type: Expense
+
+Transaction 44:
+Purpose: Freelance Work
+Amount: 450
+Date: 2024-05-14
+Type: Income
+
+Transaction 45:
+Purpose: Entertainment
+Amount: 65
+Date: 2024-05-15
+Type: Expense
+
+Transaction 46:
+Purpose: Gym Membership
+Amount: 40
+Date: 2024-05-16
+Type: Expense
+
+Transaction 47:
+Purpose: Investment Dividend
+Amount: 190
+Date: 2024-05-17
+Type: Income
+
+Transaction 48:
+Purpose: Dining Out
+Amount: 40
+Date: 2024-05-18
+Type: Expense
+
+Transaction 49:
+Purpose: Groceries
+Amount: 100
+Date: 2024-05-19
+Type: Expense
+
+Transaction 50:
+Purpose: Salary
+Amount: 2800
+Date: 2024-05-20
+Type: Income
+
+Transaction 51:
+Purpose: Rent
+Amount: 1200
+Date: 2024-05-21
+Type: Expense
+
+Transaction 52:
+Purpose: Freelance Work
+Amount: 380
+Date: 2024-05-22
+Type: Income
+
+Transaction 53:
+Purpose: Transportation
+Amount: 25
+Date: 2024-05-23
+Type: Expense
+
+Transaction 54:
+Purpose: Dining Out
+Amount: 55
+Date: 2024-05-24
+Type: Expense
+
+Transaction 55:
+Purpose: Electricity Bill
+Amount: 105
+Date: 2024-05-25
+Type: Expense
+
+Transaction 56:
+Purpose: Clothing
+Amount: 60
+Date: 2024-05-26
+Type: Expense
+
+Transaction 57:
+Purpose: Investment Dividend
+Amount: 180
+Date: 2024-05-27
+Type: Income
+
+Transaction 58:
+Purpose: Groceries
+Amount: 90
+Date: 2024-05-28
+Type: Expense
+
+Transaction 59:
+Purpose: Freelance Work
+Amount: 420
+Date: 2024-05-29
+Type: Income
+
+Transaction 60:
+Purpose: Dining Out
+Amount: 48
+Date: 2024-05-30
+Type: Expense
+
+Transaction 61:
+Purpose: Salary
+Amount: 2600
+Date: 2024-06-01
+Type: Income
+
+Transaction 62:
+Purpose: Groceries
+Amount: 95
+Date: 2024-06-02
+Type: Expense
+
+Transaction 63:
+Purpose: Rent
+Amount: 1200
+Date: 2024-06-03
+Type: Expense
+
+Transaction 64:
+Purpose: Freelance Work
+Amount: 330
+Date: 2024-06-04
+Type: Income
+
+Transaction 65:
+Purpose: Dining Out
+Amount: 45
+Date: 2024-06-05
+Type: Expense
+
+Transaction 66:
+Purpose: Gasoline
+Amount: 35
+Date: 2024-06-06
+Type: Expense
+
+Transaction 67:
+Purpose: Internet Bill
+Amount: 70
+Date: 2024-06-07
+Type: Expense
+
+Transaction 68:
+Purpose: Birthday Gift
+Amount: 35
+Date: 2024-06-08
+Type: Expense
+
+Transaction 69:
+Purpose: Investment Dividend
+Amount: 150
+Date: 2024-06-09
+Type: Income
+
+Transaction 70:
+Purpose: Clothing
+Amount: 75
+Date: 2024-06-10
+Type: Expense
+
+Transaction 71:
+Purpose: Bonus
+Amount: 550
+Date: 2024-06-11
+Type: Income
+
+Transaction 72:
+Purpose: Electricity Bill
+Amount: 110
+Date: 2024-06-12
+Type: Expense
+
+Transaction 73:
+Purpose: Car Maintenance
+Amount: 220
+Date: 2024-06-13
+Type: Expense
+
+Transaction 74:
+Purpose: Freelance Work
+Amount: 470
+Date: 2024-06-14
+Type: Income
+
+Transaction 75:
+Purpose: Entertainment
+Amount: 65
+Date: 2024-06-15
+Type: Expense
+
+Transaction 76:
+Purpose: Gym Membership
+Amount: 40
+Date: 2024-06-16
+Type: Expense
+
+Transaction 77:
+Purpose: Investment Dividend
+Amount: 200
+Date: 2024-06-17
+Type: Income
+
+Transaction 78:
+Purpose: Dining Out
+Amount: 42
+Date: 2024-06-18
+Type: Expense
+
+Transaction 79:
+Purpose: Groceries
+Amount: 110
+Date: 2024-06-19
+Type: Expense
+
+Transaction 80:
+Purpose: Salary
+Amount: 2800
+Date: 2024-06-20
+Type: Income
+
+Transaction 81:
+Purpose: Rent
+Amount: 1200
+Date: 2024-06-21
+Type: Expense
+
+Transaction 82:
+Purpose: Freelance Work
+Amount: 360
+Date: 2024-06-22
+Type: Income
+
+Transaction 83:
+Purpose: Transportation
+Amount: 30
+Date: 2024-06-23
+Type: Expense
+
+Transaction 84:
+Purpose: Dining Out
+Amount: 60
+Date: 2024-06-24
+Type: Expense
+
+Transaction 85:
+Purpose: Electricity Bill
+Amount: 115
+Date: 2024-06-25
+Type: Expense
+
+Transaction 86:
+Purpose: Clothing
+Amount: 65
+Date: 2024-06-26
+Type: Expense
+
+Transaction 87:
+Purpose: Investment Dividend
+Amount: 190
+Date: 2024-06-27
+Type: Income
+
+Transaction 88:
+Purpose: Groceries
+Amount: 85
+Date: 2024-06-28
+Type: Expense
+
+Transaction 89:
+Purpose: Freelance Work
+Amount: 440
+Date: 2024-06-29
+Type: Income
+
+Transaction 90:
+Purpose: Dining Out
+Amount: 50
+Date: 2024-06-30
+Type: Expense
+
+Transaction 91:
+Purpose: Salary
+Amount: 2700
+Date: 2024-07-01
+Type: Income
+
+Transaction 92:
+Purpose: Groceries
+Amount: 90
+Date: 2024-07-02
+Type: Expense
+
+Transaction 93:
+Purpose: Rent
+Amount: 1200
+Date: 2024-07-03
+Type: Expense
+
+Transaction 94:
+Purpose: Freelance Work
+Amount: 340
+Date: 2024-07-04
+Type: Income
+
+Transaction 95:
+Purpose: Dining Out
+Amount: 55
+Date: 2024-07-05
+Type: Expense
+
+Transaction 96:
+Purpose: Gasoline
+Amount: 50
+Date: 2024-07-06
+
+
+Transaction 97:
+Purpose: Internet Bill
+Amount: 75
+Date: 2024-07-07
+Type: Expense
+
+Transaction 98:
+Purpose: Birthday Gift
+Amount: 40
+Date: 2024-07-08
+Type: Expense
+
+Transaction 99:
+Purpose: Investment Dividend
+Amount: 170
+Date: 2024-07-09
+Type: Income
+
+Transaction 100:
+Purpose: Clothing
+Amount: 90
+Date: 2024-07-10
+Type: Expense
